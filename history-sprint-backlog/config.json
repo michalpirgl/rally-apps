@@ -1,0 +1,11 @@
+{
+    "name": "HistorySprintBacklog",
+    "className": "HistorySprintBacklog",
+    "sdk": "2.0rc3",
+    "javascript": [
+        "HistorySprintBacklog.js"
+    ],
+    "css": [
+        "HistorySprintBacklog.css"
+    ]
+}
